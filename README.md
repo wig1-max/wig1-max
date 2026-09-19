@@ -9,7 +9,7 @@ My focus is **fintech and accounting automation**: systems where a wrong number
 is worse than no number, so every figure must be traceable and every automated
 action reviewable.
 
-#### Featured project
+#### Featured projects
 
 **[Shimline: bookkeeping automation engine for QuickBooks Online](https://github.com/wig1-max/shimline-bookkeeping-engine)**
 
@@ -26,9 +26,23 @@ reconciles.
 
 [![Shimline cleanup review screen](https://raw.githubusercontent.com/wig1-max/shimline-bookkeeping-engine/main/docs/images/bookkeeping-review.png)](https://github.com/wig1-max/shimline-bookkeeping-engine)
 
+**[OweAhead: Making Tax Digital software for UK sole traders](https://github.com/wig1-max/oweahead)**
+
+Tax planning and digital recordkeeping for HMRC Making Tax Digital. A pure,
+deterministic, versioned tax engine (integer pennies, GOV.UK-sourced rates)
+estimates Income Tax and Class 4 NIC, with CSV bank import, user-authored
+bookkeeping rules, private receipts, quarterly reconciliation and close, and a
+simulated HMRC provider.
+
+- 965 tests plus Playwright end-to-end journeys with accessibility checks
+- PostgreSQL row-level security, fail-closed production configuration, and malware-scanned uploads
+- Next.js 16 · React 19 · TypeScript · PostgreSQL · Drizzle · Tailwind
+
+[![OweAhead home screen](https://raw.githubusercontent.com/wig1-max/oweahead/main/docs/images/dashboard.png)](https://github.com/wig1-max/oweahead)
+
 #### What I work with
 
-`Python` `FastAPI` `SQL / SQLite` `OAuth 2.0` `REST API integrations`
+`Python` `FastAPI` `TypeScript` `Next.js` `React` `PostgreSQL` `SQL / SQLite` `OAuth 2.0` `REST API integrations`
 `QuickBooks Online API` `HTMX` `HTML/CSS` `pytest` `property-based testing`
 `Linux / Nginx / systemd` `security hardening` `AI-assisted development`
 
