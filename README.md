@@ -9,6 +9,8 @@ My focus is **fintech and accounting automation**: systems where a wrong number
 is worse than no number, so every figure must be traceable and every automated
 action reviewable.
 
+Case studies with the story behind each project: **[aryanmadaan.myportfolio.com](https://aryanmadaan.myportfolio.com)**
+
 #### Featured projects
 
 **[Shimline: bookkeeping automation engine for QuickBooks Online](https://github.com/wig1-max/shimline-bookkeeping-engine)**
@@ -62,4 +64,6 @@ gated by validation, client approval and qualified-reviewer sign-off.
 
 #### Reach me
 
+🌐 Portfolio: [aryanmadaan.myportfolio.com](https://aryanmadaan.myportfolio.com)  
+💼 LinkedIn: [linkedin.com/in/aryanmadaan](https://www.linkedin.com/in/aryanmadaan)  
 📫 aryanmadaan@gmail.com
