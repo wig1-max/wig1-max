@@ -40,9 +40,23 @@ simulated HMRC provider.
 
 [![OweAhead home screen](https://raw.githubusercontent.com/wig1-max/oweahead/main/docs/images/dashboard.png)](https://github.com/wig1-max/oweahead)
 
+**[TaxDesk OS: practice management and ITR preparation for Indian CA offices](https://github.com/wig1-max/taxdesk-os)**
+
+An operations command center for Indian tax practices (clients, cases, expiring
+client upload links, document custody, fees and PDFs) with a Tax Desk built on a
+deterministic, versioned AY 2026-27 income tax engine. Every rule cites committed
+statutory text, every figure traces back to a ledger row, and filing readiness is
+gated by validation, client approval and qualified-reviewer sign-off.
+
+- 2,400+ automated checks: 1,861 unit tests, 312 hostile-client security checks, Playwright end-to-end suites
+- Supabase row-level security with guarded `SECURITY DEFINER` RPCs, AES-256-GCM encrypted PAN, audited reveals
+- Next.js 15 · React 19 · TypeScript · Supabase / PostgreSQL · Tailwind
+
+[![TaxDesk OS computation screen](https://raw.githubusercontent.com/wig1-max/taxdesk-os/main/docs/images/tax-case-computation.png)](https://github.com/wig1-max/taxdesk-os)
+
 #### What I work with
 
-`Python` `FastAPI` `TypeScript` `Next.js` `React` `PostgreSQL` `SQL / SQLite` `OAuth 2.0` `REST API integrations`
+`Python` `FastAPI` `TypeScript` `Next.js` `React` `PostgreSQL` `Supabase` `SQL / SQLite` `OAuth 2.0` `REST API integrations`
 `QuickBooks Online API` `HTMX` `HTML/CSS` `pytest` `property-based testing`
 `Linux / Nginx / systemd` `security hardening` `AI-assisted development`
 
